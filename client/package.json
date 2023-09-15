@@ -46,6 +46,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://twitter-mini.onrender.com"
+  "proxy": "http://localhost:8000/api"
 }
 
